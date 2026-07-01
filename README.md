@@ -1,4 +1,4 @@
-# 🇹🇩 TCHAD_CYBER_SECURITY
+#TCHAD_CYBER_SECURITY
 
 **TCHAD_CYBER_SECURITY** est une plateforme complète de téléchargement de livres informatiques et de cybersécurité. Ce script Python offre une interface en ligne de commande intuitive pour rechercher, télécharger et organiser des ressources éducatives dans le domaine de la cybersécurité et de l'informatique.
 
